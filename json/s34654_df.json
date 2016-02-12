@@ -1,0 +1,16 @@
+{ "mri_info": {"dimensions": "128 x 128 x 52",
+"voxelSizes": "2.0000, 2.0000, 2.0000",
+"orientation": "LPS",
+"primarySliceDirection": "axial"}, 
+"PatientName": "Bob", 
+"PatientID": "111111",
+"PatientBirthDate": "20000101", 
+"PatientSex": "M", 
+"SeriesDescription": "Some MRI Scan",
+"Manufacturer": "Siemens", 
+"AccessionNumber": "2222222", 
+"StudyDate": "20160510",          
+"meta": {
+   "html": "<h1>Heading<\/h1> <p>This is a line of text on the baby atlas!<\/p> <p>This is another line.<\/p> <p>Here is an image:<\/p> <img src=\"http:\/\/lorempixel.com\/400\/200\" >"
+        }
+}
